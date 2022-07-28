@@ -26,6 +26,8 @@ object Companion{
     //Accessing private method
     println(msg.method())
 
+    //This is also a functional object because it doesn't has any mutable state
+
     //Here we are accessing the from package object
     println(hii)
   }

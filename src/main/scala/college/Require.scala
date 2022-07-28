@@ -16,7 +16,7 @@ class Factorial(n: Int) {
 object Fac{
 
   def main(args: Array[String]): Unit ={
-    new Factorial(6)
+    new Factorial(-1)
   }
 
 }

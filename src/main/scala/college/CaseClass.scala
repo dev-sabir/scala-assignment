@@ -4,7 +4,7 @@ package college
  case class CaseClass(season: String) {
 // even in absence of val or var, case class’s constructor parameters will turn out to be class members
   // we can directly access the season variable
-
+//we can't call auxiliary constructor in case class
 //  def this(season: String, temp: String){
 //    this(season)
 //  }

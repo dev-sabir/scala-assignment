@@ -1,4 +1,4 @@
- class ArithClass {
+  class ArithClass {
 
     def add(value1: Int, value2: Int): Int ={
       value1+value2
